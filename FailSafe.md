@@ -1,14 +1,18 @@
-A door access installation consists of several parts. 
+An access control installation consists of several parts. 
 
 * Kisi Controller Pro
 * Electric Strike or Magnetic lock
 * REX (optional)
 * Keypad (optional)
+* Reader (optional)
 
-In this article we'll detail how to connecto the controller to a fail-safe lock, and also how to add a REX.
+In this article we'll detail how to connect the Kisi Controller Pro to a fail-safe lock.
 
-<h3>Things you got in the box:</h3>
-The Kisi Controller Pro (comes with a 24V Universal AC power supply)
+The Kisi Controller Pro comes with a 24V Universal AC power supply. To complete the installation you will need to source the following:
+
+* 12 or 24V DC fail safe electric strike or magnetic lock
+* Ethernet Cable
+* Low Voltage Wires
 
 <h3>Things you didn’t get that you’ll need to purchase elsewhere:</h3>
 
@@ -23,7 +27,7 @@ The Kisi Controller Pro (comes with a 24V Universal AC power supply)
 ![The Controller](https://help.kisi.io/hc/article_attachments/360052318934/Standalone_fail_safe_maglock.PNG)
 
 
-<h3>Connecting your first lock</h3> 
+<h3>Connecting the controller to the first lock</h3> 
 <p>
 Two strands of low voltage wire, an electric lock and a little bitty screwdriver are all that you need!
 </p>
@@ -33,13 +37,7 @@ Two strands of low voltage wire, an electric lock and a little bitty screwdriver
   
 To start, connect the positive wire to the correct voltage postition on the first relay. The negative wire should then be connected to NC (Normally Closed). Following this, connect a jumper wire from Common to Ground. 
 </p>
-<h3>Connecting REX devices</h3>  
-
-It’s a good idea to have a method for people to open the door from the inside without using Kisi. Typically a REX would be a push to open button, a keypad, or a motion sensor. It's good practice to install a keypad on the outside of the space just in case the network connection fails, and the Kisi controller cannot be reached. 
-
-To connect the REX run a pair of low voltage wires between the REX and the IN1 (Input 1) and GND (ground). Again, refer to the documentation supplied with your REX device to identify the correct wires to connect. 
-
-<h3>Powering and Network connections</h3>
+<h3>Power and Network connections</h3>
 
 Connect the black wire from the supplied power source to Ground (GND), and the white wire to the 24V position. When the device has power a blue LED should light up.
 
