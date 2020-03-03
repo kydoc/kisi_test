@@ -11,8 +11,8 @@ The fabulous Kisi Controller (comes with a 24V Universal AC power supply)
 
 ![The Controller](https://help.kisi.io/hc/article_attachments/360052318934/Standalone_fail_safe_maglock.PNG)
 
-<h3>Ready to connect your first lock?</h3> Go on, you can do it! Two strands of low voltage wire, an electric lock and a little bitty screwdriver are all that you need!
-
+<h3>Ready to connect your first lock?</h3> Go on, you can do it! Two strands of low voltage wire, an electric lock and a little bitty screwdriver are all that you need!  
+<br>
 Please refer to the product documentation for your electric lock to ensure you’re choosing the correct voltage, and for help in identifying the positive and negative  wires. When you’ve identified the positive wire to the correct voltage postition on the first relay. The negative wire should then be connected to NC (Normally Closed). Almost there! The last step is to connect a jumper wire from Common to Ground. Now your lock is connected! That wasn’t so hard, was it?
 
 <h3>But wait, there’s more fun to be had!</h3>  
