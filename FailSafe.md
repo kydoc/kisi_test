@@ -1,5 +1,14 @@
+A door access installation consists of several parts. 
+
+* Kisi Controller Pro
+* Electric Strike or Magnetic lock
+* REX (optional)
+* Keypad (optional)
+
+In this article we'll detail how to connecto the controller to a fail-safe lock, and also how to add a REX.
+
 <h3>Things you got in the box:</h3>
-The fabulous Kisi Controller (comes with a 24V Universal AC power supply)
+The Kisi Controller Pro (comes with a 24V Universal AC power supply)
 
 <h3>Things you didn’t get that you’ll need to purchase elsewhere:</h3>
 
@@ -9,6 +18,8 @@ The fabulous Kisi Controller (comes with a 24V Universal AC power supply)
 * Keypad
 * Push to Exit/Motion Sensor
 
+
+
 ![The Controller](https://help.kisi.io/hc/article_attachments/360052318934/Standalone_fail_safe_maglock.PNG)
 
 
@@ -17,7 +28,8 @@ The fabulous Kisi Controller (comes with a 24V Universal AC power supply)
 Two strands of low voltage wire, an electric lock and a little bitty screwdriver are all that you need!
 </p>
 <p>
-**Note:** Refer to the product documentation for your electric lock to ensure you’re choosing the correct voltage, and for help in identifying the positive and negative wires. 
+  
+** Note: ** Refer to the product documentation for your electric lock to ensure you’re choosing the correct voltage, and for help in identifying the positive and negative wires. 
   
 To start, connect the positive wire to the correct voltage postition on the first relay. The negative wire should then be connected to NC (Normally Closed). Following this, connect a jumper wire from Common to Ground. 
 </p>
