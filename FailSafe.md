@@ -21,7 +21,7 @@ Please refer to the product documentation for your electric lock to ensure you�
 </p>
 <h3>But wait, there’s more fun to be had!</h3>  
 
-Why not connect a Request to Exit (REX) device? It’s a good idea to have a method for people to open the door from the inside without using Kisi. Typically a  REX would be a push to open button, a keypad, or a motion sensor. Speaking of a keypad, you should probably install a keypad on the outside just in case the network controller connection fails. 
+Why not connect a Request to Exit (REX) device? It’s a good idea to have a method for people to open the door from the inside without using Kisi. Typically a REX would be a push to open button, a keypad, or a motion sensor. Speaking of a keypad, you should probably install a keypad on the outside just in case the network connection fails, and the controller cannot be reached. 
 
 To connect the REX run a pair of low voltage wires between the REX and the IN1 (Input 1) and GND (ground). Refer to the documentation supplied with your REX device to identify the correct wires to connect. 
 
