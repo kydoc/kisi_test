@@ -8,9 +8,9 @@ An access control installation consists of several parts.
 * Keypad (optional)
 * Reader (optional)
 
-Connecting the Kisi Controller Pro to the lock will allow you to unlock the door with the Kisi App. With a "request to exit" (REX) on the inside of the secured space the door can be opened even without the app. You should also consider placing a keypad or card reader on the outside of the secured space just in case the Kisi Controller is not accessible from the internet. See the following artiles for help with installing the keypad/cardreader
+Connecting the Kisi Controller Pro to the lock will allow you to unlock the door with the Kisi App. With a "request to exit" (REX) on the inside of the secured space the door can be opened even without the app. You should also consider placing a keypad or card reader on the outside of the secured space just in case the Kisi Controller is not accessible from the internet. See the following articles for help with installing the keypad/cardreader
 
-Keypad Link
+*Keypad Link
 
 <h3>Connecting the controller to the first lock</h3> 
 <p>
