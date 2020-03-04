@@ -19,13 +19,10 @@ Keypad Link
 
 </p>
 <p>
-Refer to the product documentation for your electric lock to ensure you choose the correct voltage, and for help in correctly identifying the wires. 
-  
-Begin by connecting the positive wire to the correct voltage postition on the first relay. The negative wire should then be connected to NC (Normally Closed). Following this, connect a jumper wire from Common (COM) to Ground (GND). 
+Before you begin, pleae refer to the product documentation for your electric lock to ensure you choose the correct voltage, and for help in correctly identifying the wires.
 </p>
-<p>
-Connect the black wire from the supplied power source to Ground (GND), and the white wire to the 24V position. When the device has power a blue LED should light up.
-</p>
-<p>
-Plug your ethernet cable into the RJ45 port on the controller. 
-</p>
+
+* Start by connecting the positive wire to the correct voltage postition on the first relay. The negative wire should then be connected to NC (Normally Closed). Following this, connect a jumper wire from Common (COM) to Ground (GND). 
+* Connect the black wire from the supplied power source to Ground (GND), and the white wire to the 24V position. When the device has power a blue LED should light up.
+* Plug your ethernet cable into the RJ45 port on the controller. 
+
