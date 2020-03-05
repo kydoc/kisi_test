@@ -32,4 +32,4 @@ Before you begin, pleae refer to the product documentation for your electric loc
 
 5. Finally, connect the low voltage wiring from Ground (GND) on the Kisi controller to Ground (GND) on the Power Supply's input, and Normally Open (NO) on the Kisi controller to In (IN) on the Power Supply's input.
 
-[![Vid](http://img.youtube.com/vi/H0vQgyN_pN0/0.jpg)](http://www.youtube.com/watch?v=YH0vQgyN_pN0)
+[![Vid](http://img.youtube.com/vi/H0vQgyN_pN0/0.jpg)](https://www.youtube.com/watch?v=H0vQgyN_pN0)
