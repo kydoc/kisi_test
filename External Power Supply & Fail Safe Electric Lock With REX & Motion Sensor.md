@@ -1,4 +1,4 @@
-<h3>Connecting the Kisi Controller Pro to a fail-safe lock with external power together with a push to exit button and a motion sensor.</h3>
+<h3>Connecting the Kisi Controller Pro to a fail-safe lock with external power together, with a push to exit button and a motion sensor.</h3>
 
 
 Connecting the Kisi Controller Pro to the lock will allow you to unlock the door with the Kisi App. With a "push to exit" button on the inside of the secured space the door can be opened even without the app. You should also consider placing a keypad or card reader on the outside of the secured space just in case the Kisi Controller is not accessible from the internet. Click [here](https://help.kisi.io/hc/en-us/articles/360007494813-Recommended-Electric-Locks-Other-Equipment) for help with choosing and installing a keypad/cardreader
@@ -31,4 +31,6 @@ Before you begin, please refer to the product documentation for devices for help
 
 [![Vid](http://img.youtube.com/vi/H0vQgyN_pN0/0.jpg)](https://www.youtube.com/watch?v=H0vQgyN_pN0)
 
+<p>
 You now have the door installation wired up. Click [here](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard) for information on how to configure the controller in the Kisi web dashboard
+</p>
