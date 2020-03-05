@@ -19,7 +19,7 @@ Connecting the Kisi Controller Pro to the lock will allow you to unlock the door
 
 </p>
 <p>
-Before you begin, pleae refer to the product documentation for your electric lock to ensure you choose the correct voltage, and for help in correctly identifying the wires.
+Before you begin, pleae refer to the product documentation for devices for help in correctly identifying the wires.
 </p>
 
 * Begin by connecting the negative (-) lead from the Maglock to the Normally Closed (NC) connection on the Push to Exit button.
