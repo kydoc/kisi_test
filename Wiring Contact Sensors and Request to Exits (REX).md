@@ -1,9 +1,9 @@
 
 <h3>In this article we'll detail how to connect the Kisi Controller Pro to a REX and motion sensor.</h3>
 
-Connecting the Kisi Controller Pro to the lock is the basic installation which allows you to unlock the door with the Kisi App. It's a good idea to add a "request to exit" (REX) on the inside of the secured space to allow egress without the app, and a keypad or other access device on the outside of the secured space just in case the Kisi Controller is not accessible from the internet. See the following artiles for help with this:
+Connecting the Kisi Controller Pro to the lock is the basic installation which allows you to unlock the door with the Kisi App. It's a good idea to add a "request to exit" (REX) on the inside of the secured space to allow egress without the app, and a keypad or other access device on the outside of the secured space just in case the Kisi Controller is not accessible from the internet. See the following articles for help with this:
 
-Keypad Link
+ [Keypad](https://www.getkisi.com/lessons/how-to-install-an-door-access-control-system)
 
 Installing contact sensors into your Kisi system allows Kisi to recognize whether the door has actually been opened after being unlocked and to log an event in the Kisi admin dashboard. More information about using contact sensors can be found here:
 
