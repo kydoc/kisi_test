@@ -22,14 +22,16 @@ Connecting the Kisi Controller Pro to the lock will allow you to unlock the door
 Before you begin, pleae refer to the product documentation for your electric lock to ensure you choose the correct voltage, and for help in correctly identifying the wires.
 </p>
 
-1. Begin by connecting the negative (-) lead from the Maglock to the Normally Closed (NC) connection on the Push to Exit button.
+* Begin by connecting the negative (-) lead from the Maglock to the Normally Closed (NC) connection on the Push to Exit button.
 
-2. Connect the Common (COM) connection on your Push to Exit to the Common (COM) connection of the Motion Sensor.
+* Connect the Common (COM) connection on your Push to Exit to the Common (COM) connection of the Motion Sensor.
 
-3. Connect the Normally Closed (NC) connection of the Motion Sensor to the Common (COM) connection of the Power Supply's output.
+* Connect the Normally Closed (NC) connection of the Motion Sensor to the Common (COM) connection of the Power Supply's output.
 
-4. Connect the positive (+) lead from the Maglock to the Normally Closed (NC) output connection of the Power Supply's output.
+* Connect the positive (+) lead from the Maglock to the Normally Closed (NC) output connection of the Power Supply's output.
 
-5. Finally, connect the low voltage wiring from Ground (GND) on the Kisi controller to Ground (GND) on the Power Supply's input, and Normally Open (NO) on the Kisi controller to In (IN) on the Power Supply's input.
+* Finally, connect the low voltage wiring from Ground (GND) on the Kisi controller to Ground (GND) on the Power Supply's input, and Normally Open (NO) on the Kisi controller to In (IN) on the Power Supply's input.
 
 [![Vid](http://img.youtube.com/vi/H0vQgyN_pN0/0.jpg)](https://www.youtube.com/watch?v=H0vQgyN_pN0)
+
+You now have the door installation wired up. Click [here](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard) for information on how to configure the controller in the Kisi web dashboard
