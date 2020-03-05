@@ -11,8 +11,8 @@ contact sensor link
 
 This access control installation consists of the following: 
 * Kisi Controller Pro (comes with a 24V Universal AC power supply)
-* A contact sensor (purchased seperately
-* A push to open button
+* A contact sensor (purchased seperately)
+* A push to open button (purchased seperately)
 
 <h3>Connecting the contact sensor and REX</h3> 
 <p>
@@ -26,6 +26,6 @@ Wiring Contact Sensor and Request to Exit
 * Once the contact sensor and/or the request to exit (REX) has been connected, they will need to be configured in the Kisi dashboard software. For instructions on configuring these devices, look here: 
 
 
-You now have the installation wired up, powered up, and connected to your network. Click [here](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard) for information on how to configure this installation in the Kisi web dashboard
+You now have the installation wired up. Click [here](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard) for information on how to configure this installation in the Kisi web dashboard
 
 
