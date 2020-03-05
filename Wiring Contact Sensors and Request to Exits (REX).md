@@ -5,14 +5,15 @@ An access control installation consists of several parts.
 * Kisi Controller Pro
 * Contact sensor
 * Push-to-open button (REX)
+* Keypad/card reader (optional)
 
 
-Connecting the Kisi Controller Pro to the lock will allow you to unlock the door with the Kisi App. It's a good idea to add a "request to exit" (REX) on the inside of the secured space to allow egress without the app, and a keypad or other access device on the outside of the secured space just in case the Kisi Controller is not accessible from the internet. See the following artiles for help with this:
+Connecting the Kisi Controller Pro to the lock is the basic installation which allows you to unlock the door with the Kisi App. It's a good idea to add a "request to exit" (REX) on the inside of the secured space to allow egress without the app, and a keypad or other access device on the outside of the secured space just in case the Kisi Controller is not accessible from the internet. See the following artiles for help with this:
 
 REX link
 Keypad Link
 
-Installing contact sensors into your Kisi system will also allow you to trigger other devices such as an alarm, or camera. More information about using contact sensors can be found here:
+Installing contact sensors into your Kisi system allows Kisi to recognize whether the door has actually been opened after being unlocked and log an event in the Kis admin dashboard. More information about using contact sensors can be found here:
 
 contact sensor link
 
