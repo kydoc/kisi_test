@@ -1,11 +1,6 @@
 <h3>In this article we'll detail how to connect the Kisi Controller Pro to a single fail-safe lock.</h3>
 
-While connecting the Kisi Controller Pro to the lock will allow you to unlock the door with the Kisi App, It's a good idea to add a "request to exit" (REX) on the inside of the secured space, and a keypad or card reader on the outside. These devices will enable you to unlock the door without the app, just in case the Kisi Controller is not accessible from the internet. See the following articles for help with this:
-
-REX link
-
-Keypad Link
-
+While connecting the Kisi Controller Pro to the lock will allow you to unlock the door with the Kisi App, It's a good idea to add a "request to exit" (REX) on the inside of the secured space, and a keypad or card reader on the outside. These devices will enable you to unlock the door without the app, just in case the Kisi Controller is not accessible from the internet. Click [here](https://help.kisi.io/hc/en-us/articles/360007494813-Recommended-Electric-Locks-Other-Equipment) for help with choosing and installing these dvices.
 
 This access control installation consists of the following:
 * Kisi Controller Pro (comes with a 24V Universal AC power supply)
