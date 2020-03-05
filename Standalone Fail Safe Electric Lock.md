@@ -7,8 +7,10 @@ This access control installation consists of the following:
 * 12 or 24V DC fail safe electric strike or magnetic lock (purchased separately)
 * low voltage wires (purchased separately)
 
-
+<p>
 <h3>Connecting the controller to the first lock</h3> 
+</p>
+
 <p>
   
 ![The Controller](https://help.kisi.io/hc/article_attachments/360052318934/Standalone_fail_safe_maglock.PNG)
