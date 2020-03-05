@@ -19,7 +19,7 @@ This access control installation consists of the following:
   
 ![Image](https://help.kisi.io/hc/article_attachments/360026425753/Screen_Shot_2019-02-11_at_2.57.13_PM.png)
 
-Wiring Contact Sensor and Request to Exit
+<h3>Wiring Contact Sensor and Request to Exit</h3>
 
 *   Connect the contact sensor and/or the request to exit (REX) leads to to the channel inputs in the contact sensor and/or request to exit (REX) relays.  
 
