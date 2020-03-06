@@ -12,9 +12,7 @@ This access control installation consists of the following:
   
 ![The Controller](https://help.kisi.io/hc/article_attachments/360052318934/Standalone_fail_safe_maglock.PNG)
 
-R In addition consult your device's product documentation before proceeding. 
-
-Before you begin, please refer to the [Kisi controller pro documentation](https://help.kisi.io/hc/en-us/sections/115002573127-Kisi-Controller-Pro-1-1-)  for assistance in correctly identifying the controller components, and for help in setting up the controller. In addition, conslt the product documentation for your electric lock to ensure that you choose the correct voltage, and for help in correctly identifying the wires.
+Before you begin, please refer to the [Kisi controller pro documentation](https://help.kisi.io/hc/en-us/sections/115002573127-Kisi-Controller-Pro-1-1-)  for assistance in correctly identifying the controller components, and for help in setting up the controller. In addition, consult the product documentation for your electric lock to ensure that you choose the correct voltage, and for help in correctly identifying the wires.
 
 * Start by connecting the positive wire to the correct voltage position on the first relay. The negative wire should then be connected to NC (Normally Closed). Following this, connect a jumper wire from Common (COM) to Ground (GND). 
 * Connect the black wire from the supplied power source to Ground (GND), and the white wire to the 24V position. When the device has power a blue LED should light up.
