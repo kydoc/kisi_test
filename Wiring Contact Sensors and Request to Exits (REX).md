@@ -7,8 +7,8 @@ Installing [contact sensors](https://www.getkisi.com/lessons/how-to-install-an-d
 
 This access control installation consists of the following: 
 * Kisi Controller Pro (comes with a 24V Universal AC power supply)
-* A contact sensor (purchased seperately)
-* A push to open button (purchased seperately)
+* A contact sensor (purchased separately)
+* A push to open button (purchased separately)
 
 <h3>Connecting the contact sensor and REX</h3> 
 
