@@ -13,7 +13,7 @@ This access control installation consists of the following:
   
 ![Image](https://help.kisi.io/hc/article_attachments/360026425753/Screen_Shot_2019-02-11_at_2.57.13_PM.png)
 
-Refer to the [Kisi controller pro documentation](https://help.kisi.io/hc/en-us/sections/115002573127-Kisi-Controller-Pro-1-1-)  for assistance in correctly identifying the controller components, and for help in setting up the controller. In addition consult your device's product documentationbefore proceeding. 
+Refer to the [Kisi controller pro documentation](https://help.kisi.io/hc/en-us/sections/115002573127-Kisi-Controller-Pro-1-1-)  for assistance in correctly identifying the controller components, and for help in setting up the controller. In addition consult your device's product documentation before proceeding. 
 
 <h3>Connecting the contact sensor and REX</h3> 
 
