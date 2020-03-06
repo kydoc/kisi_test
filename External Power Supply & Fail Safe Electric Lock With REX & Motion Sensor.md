@@ -19,7 +19,7 @@ This access control installation consists of the following.
 
 
 
-Before you begin, please refer to the [Kisi controller pro documentation](https://help.kisi.io/hc/en-us/sections/115002573127-Kisi-Controller-Pro-1-1-)  for assistance in correctly identifying the controller components, and for help in setting up the controller. In addition consult the product documentation for your devices for help in correctly identifying the wires.
+Before you begin, please refer to the [Kisi controller pro documentation](https://help.kisi.io/hc/en-us/sections/115002573127-Kisi-Controller-Pro-1-1-)  for assistance in correctly identifying the controller components, and for help in setting up the controller. In addition, consult the product documentation for your devices for help in correctly identifying the wires.
 
 * Begin by connecting the negative (-) lead from the Maglock to the Normally Closed (NC) connection on the Push to Exit button.
 
