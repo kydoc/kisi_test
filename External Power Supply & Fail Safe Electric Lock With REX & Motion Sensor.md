@@ -33,6 +33,6 @@ Before you begin, please refer to the product documentation for your devices for
 
 <p>
   
-You now have the door installation wired up. Click [here](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard) for information on how to configure the controller in the Kisi web dashboard
+You now have the door installation wired up. [Learn more about how to configure this installation in the Kisi web dashboard](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard).
 
 </p>
