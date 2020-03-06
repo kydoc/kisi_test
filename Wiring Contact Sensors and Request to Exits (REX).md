@@ -10,11 +10,12 @@ This access control installation consists of the following:
 * A contact sensor (purchased separately)
 * A push to open button (purchased separately)
 
-<h3>Connecting the contact sensor and REX</h3> 
-
   
 ![Image](https://help.kisi.io/hc/article_attachments/360026425753/Screen_Shot_2019-02-11_at_2.57.13_PM.png)
 
+Refer to the [Kisi controller pro documentation](https://help.kisi.io/hc/en-us/sections/115002573127-Kisi-Controller-Pro-1-1-)  for assistance in correctly identifying the controller components, and for help in setting up the controller. In addition consult your device's product documentationbefore proceeding. 
+
+<h3>Connecting the contact sensor and REX</h3> 
 
 *   Connect the contact sensor and/or the request to exit (REX) leads to to the channel inputs in the contact sensor and/or request to exit (REX) relays.  
 
