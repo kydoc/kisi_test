@@ -8,9 +8,9 @@ Connecting the Kisi Controller Pro to the lock will allow you to unlock the door
 
 This access control installation consists of the following. 
 * Kisi Controller Pro (comes with a 24V Universal AC power supply)
-* 12 or 24V DC fail safe electric strike or magnetic lock
-* Push to open button
-* Motion sensor
+* 12 or 24V DC fail safe electric strike or magnetic lock (purchased separately)
+* Push to open button (purchased separately)
+* Motion sensor (purchased separately)
 
 <h3>Wiring up the installation</h3> 
 
