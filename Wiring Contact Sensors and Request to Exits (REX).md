@@ -11,7 +11,7 @@ This access control installation consists of the following:
 * A push to open button (purchased seperately)
 
 <h3>Connecting the contact sensor and REX</h3> 
-<p>
+
   
 ![Image](https://help.kisi.io/hc/article_attachments/360026425753/Screen_Shot_2019-02-11_at_2.57.13_PM.png)
 
