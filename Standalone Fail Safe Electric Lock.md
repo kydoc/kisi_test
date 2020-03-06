@@ -24,5 +24,5 @@ Before you begin, please refer to the product documentation for your electric lo
 * Connect the black wire from the supplied power source to Ground (GND), and the white wire to the 24V position. When the device has power a blue LED should light up.
 * Plug your ethernet cable into the RJ45 port on the controller. 
 
-You now have the installation wired up, powered up, and connected to your network. Click [here](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard) for information on how to configure this installation in the Kisi web dashboard
+You now have the installation wired up, powered up, and connected to your network. [Learn more about how to configure this installation in the Kisi web dashboard](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard).
 
