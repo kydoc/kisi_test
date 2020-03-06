@@ -7,18 +7,13 @@ This access control installation consists of the following:
 * 12 or 24V DC fail safe electric strike or magnetic lock (purchased separately)
 * low voltage wires (purchased separately)
 
-<p>
 <h3>Connecting the controller to the first lock</h3> 
-</p>
 
-<p>
   
 ![The Controller](https://help.kisi.io/hc/article_attachments/360052318934/Standalone_fail_safe_maglock.PNG)
 
-</p>
-<p>
+
 Before you begin, please refer to the product documentation for your electric lock to ensure you choose the correct voltage, and for help in correctly identifying the wires.
-</p>
 
 * Start by connecting the positive wire to the correct voltage position on the first relay. The negative wire should then be connected to NC (Normally Closed). Following this, connect a jumper wire from Common (COM) to Ground (GND). 
 * Connect the black wire from the supplied power source to Ground (GND), and the white wire to the 24V position. When the device has power a blue LED should light up.
