@@ -32,5 +32,7 @@ Before you begin, please refer to the product documentation for your devices for
 [![Vid](http://img.youtube.com/vi/H0vQgyN_pN0/0.jpg)](https://www.youtube.com/watch?v=H0vQgyN_pN0)
 
 <p>
+  
 You now have the door installation wired up. Click [here](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard) for information on how to configure the controller in the Kisi web dashboard
+
 </p>
