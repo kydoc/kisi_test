@@ -2,7 +2,7 @@
 
 
   
-Connecting the Kisi Controller Pro to the lock will allow you to unlock the door with the Kisi App. With a "push to exit" button on the inside of the secured space the door can be opened even without the app. You should also consider placing a keypad or card reader on the outside of the secured space just in case the Kisi Controller is not accessible from the internet. [Learn more about choosing and installing a keypad/cardreader](https://help.kisi.io/hc/en-us/articles/360007494813-Recommended-Electric-Locks-Other-Equipment) 
+Connecting the Kisi Controller Pro to the lock will allow you to unlock the door with the Kisi App. With a "push to exit" button on the inside of the secured space the door can be opened even without the app. You should also consider placing a keypad or card reader on the outside of the secured space, just in case the Kisi Controller is not accessible from the internet. [Learn more about choosing and installing a keypad/cardreader](https://help.kisi.io/hc/en-us/articles/360007494813-Recommended-Electric-Locks-Other-Equipment) 
 
 
 
