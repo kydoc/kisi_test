@@ -21,6 +21,6 @@ This access control installation consists of the following:
 * Once the contact sensor and/or the request to exit (REX) has been connected, they will need to be configured in the Kisi dashboard software. For instructions on configuring these devices, look here: 
 
 
-You now have the installation wired up. [Learn more about how to configure this installation in the Kisi web dashboard](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard) 
+You now have the installation wired up. [Learn more about how to configure this installation in the Kisi web dashboard](https://help.kisi.io/hc/en-us/sections/115002573047-Kisi-Web-Dashboard). 
 
 
